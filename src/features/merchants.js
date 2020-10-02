@@ -1,5 +1,3 @@
-import Commerce from '../commerce';
-
 class Merchants {
   constructor(commerce) {
     this.commerce = commerce;

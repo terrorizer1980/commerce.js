@@ -2,6 +2,7 @@
   "name": "@chec/commerce.js",
   "version": "2.2.0",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "description": "Easy to use JavaScript SDK for managing carts and selling products from your Chec store",
   "homepage": "https://commercejs.com",
   "keywords": [
